@@ -6,6 +6,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/ahmetrecber)  
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ahmetrecber&show_icons=true">  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetrecber)](https://github.com/anuraghazra/github-readme-stats) 
-<img align="center" src="https://metrics.lecoq.io/ahmetrecber">
-
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ahmetrecber&show_icons=true&bg_color=2C2F33&icon_color=2f80ed&title_color=2f80ed&text_color=FFFFFF&hide_border=true">  
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetrecber&bg_color=2C2F33&title_color=2f80ed&text_color=FFFFFF&hide_border=true">
+<img align="left" src="https://metrics.lecoq.io/ahmetrecber">
